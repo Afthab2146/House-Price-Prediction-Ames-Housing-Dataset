@@ -4,7 +4,7 @@ The primary goal is to compare different regression techniques (Linear, Ridge, L
 
 **Workflow**
 1)Data Loading
-*Dataset: Ames Housing Dataset.csv(kaggle)
+*Dataset:https://github.com/Afthab2146/House-Price-Prediction-Ames-Housing-Dataset/blob/main/ames_housing_no_missing.csv
 *Target variable: SalePrice
 
 2)Data Preprocessing
@@ -31,4 +31,5 @@ The primary goal is to compare different regression techniques (Linear, Ridge, L
 *Actual vs Predicted Scatter Plot
 *Residual Distribution (with KDE)
 
-**Results**
+
+
